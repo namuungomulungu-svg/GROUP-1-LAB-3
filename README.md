@@ -128,6 +128,19 @@ src/main/java/lodgebilling/
 src/main/resources/           Stylesheet (lodge.css)
 src/test/java/lodgebilling/   JUnit tests
 ```
+## Project Documentation
+
+### Key Features
+- Room selection and billing.
+- Automatic calculation of room charges.
+- A 5% discount for stays of five nights or more.
+- Calculation of total bills, payments, and outstanding balances.
+- Support for different room types and prices.
+
+### Project Information
+- Project: Lodge Billing System
+- Course: ICT261
+- Institution: Mulungushi University
 
 ## Team
 
